@@ -24,7 +24,7 @@ A simple and powerful **Streamlit web app** that lets you:
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**:
-   ```bash
-  git clone https://github.com/amirtariq273/Growth-MindSet-Project01.git
+   ```bash git clone https://github.com/amirtariq273/Growth-MindSet-Project01.git
   cd Growth-MindSet-Project01
+  
 
