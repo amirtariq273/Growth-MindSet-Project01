@@ -25,5 +25,6 @@ A simple and powerful **Streamlit web app** that lets you:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/data-sweeper.git
-   cd data-sweeper
+  git clone https://github.com/amirtariq273/Growth-MindSet-Project01.git
+  cd Growth-MindSet-Project01
+
